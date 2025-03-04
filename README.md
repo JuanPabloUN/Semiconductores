@@ -51,7 +51,7 @@ Si descargaste el archivo `semiconductores proyecto.zip`, sigue estos pasos para
 ### **Linux y MacOS**
 Ejecuta el siguiente comando en la terminal:
 ```bash
-unzip proyecto_diodo.zip -d proyecto_diodo
+unzip semiconductores proyecto.zip -d semiconductores proyecto
 ```
 Luego, abre la carpeta en **VS Code**.
 
