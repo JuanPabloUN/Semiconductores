@@ -3,9 +3,10 @@
 Este repositorio contiene un modelo matemático en Python para analizar el comportamiento de un **diodo de unión PN**, incluyendo:
 - **Tensión de barrera**
 - **Anchura de la zona de agotamiento**
+- **Corriente inversa**
 - **Capacitancia de la unión**
 - **Corriente de saturación inversa**
-- **Curva característica I-V del diodo**
+
 
 ## **📌 Requisitos Previos**
 Antes de ejecutar este código, asegúrate de tener instalado lo siguiente:
