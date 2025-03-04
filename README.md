@@ -36,17 +36,14 @@ pip install numpy matplotlib rich
 - **rich**: Para mostrar los resultados en formato tabla en la terminal.
 
 ## **📂 Archivos en el Repositorio**
-- **`modelado_diodo.ipynb`**: Notebook con la implementación completa del modelo del diodo.
-- **`imagenes/`**: Carpeta con imágenes utilizadas en el notebook.
-- **`modelado_diodo.pdf`**: Versión en PDF del código del notebook.
 - **`README.md`**: Este documento con la explicación de instalación y uso.
-- **`proyecto_diodo.zip`**: Archivo comprimido con todos los archivos necesarios.
+- **`semiconductores proyecto.zip`**: Archivo comprimido con todos los archivos necesarios.
 
 ## **📦 Cómo Descomprimir la Carpeta del Proyecto**
 Si descargaste el archivo `proyecto_diodo.zip`, sigue estos pasos para descomprimirlo:
 
 ### **Windows**
-1. Ubica el archivo `proyecto_diodo.zip` en tu computadora.
+1. Ubica el archivo `semiconductores proyecto.zip` en tu computadora.
 2. Haz clic derecho y selecciona **Extraer aquí** o **Extraer en 'proyecto_diodo/'**.
 3. Abre **VS Code** y selecciona la carpeta descomprimida.
 
@@ -61,19 +58,19 @@ Luego, abre la carpeta en **VS Code**.
 ### **1️⃣ Abrir el Proyecto en VS Code**
 1. Abre **VS Code**.
 2. Ve a **Archivo > Abrir Carpeta** y selecciona la carpeta descomprimida del proyecto.
-
+3 Asegurate que la carpeta tiene las imagenes ya que se muestran al ejecutar ciertas celdas
 ### **2️⃣ Ejecutar el Código en un Notebook**
 Si deseas usar **Jupyter Notebook** dentro de **VS Code**:
 1. Abre el archivo **`modelado_diodo.ipynb`**.
-2. Ejecuta cada celda con **Shift + Enter**.
-3. El archivo está en un formato en el cual cada celda tiene una breve explicación de lo que realiza. También tiene la explicación de como el usuario debe asignar las variables ya sea de manera generica o manual.
+3. Ejecuta cada celda con **Shift + Enter**.
+4. El archivo está en un formato en el cual cada celda tiene una breve explicación de lo que realiza. También tiene la explicación de como el usuario debe asignar las variables ya sea de manera generica o manual.
 ## ⚠️ IMPORTANTE⚠️
 Si se desea cambiar los parametros se debe ejecutar todas las celdas desde la celda de la selección de parametros asegurandose que la interfaz del usuario se reinicie para garantizar su correcta ejecución.   
 
 ## **📊 Salida Esperada**
 El programa imprimirá:
 1. **Tensión de barrera \( V_b \)**
-2. **Corriente inversa**
+2. **Corriente inversa \(IR\)**
 3. **Anchura de la zona de agotamiento \( W \)**
 4. **Capacitancia de la unión \( C_j \)**
 5. **Corriente de saturación inversa \( I_S \)**
