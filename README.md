@@ -67,7 +67,7 @@ Si deseas usar **Jupyter Notebook** dentro de **VS Code**:
 1. Abre el archivo **`modelado_diodo.ipynb`**.
 2. Ejecuta cada celda con **Shift + Enter**.
 3. El archivo está en un formato en el cual cada celda tiene una breve explicación de lo que realiza. También tiene la explicación de como el usuario debe asignar las variables ya sea de manera generica o manual.
-⚠️## IMPORTANTE⚠️
+## ⚠️ IMPORTANTE⚠️
 Si se desea cambiar los parametros se debe ejecutar todas las celdas desde la celda de la selección de parametros asegurandose que la interfaz del usuario se reinicie para asegurar su correcta ejecución.   
 
 ## **📊 Salida Esperada**
