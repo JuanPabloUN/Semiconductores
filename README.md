@@ -73,6 +73,7 @@ Si se desea cambiar los parametros se debe ejecutar todas las celdas desde la ce
 ## **📊 Salida Esperada**
 El programa imprimirá:
 1. **Tensión de barrera \( V_b \)**
-2. **Anchura de la zona de agotamiento \( W \)**
-3. **Capacitancia de la unión \( C_j \)**
-4. **Corriente de saturación inversa \( I_S \)**
+2. **Corriente inversa**
+3. **Anchura de la zona de agotamiento \( W \)**
+4. **Capacitancia de la unión \( C_j \)**
+5. **Corriente de saturación inversa \( I_S \)**
