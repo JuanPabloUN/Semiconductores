@@ -41,7 +41,7 @@ pip install numpy matplotlib rich
 - **`semiconductores proyecto.zip`**: Archivo comprimido con todos los archivos necesarios.
 
 ## **📦 Cómo Descomprimir la Carpeta del Proyecto**
-Si descargaste el archivo `proyecto_diodo.zip`, sigue estos pasos para descomprimirlo:
+Si descargaste el archivo `semiconductores proyecto.zip`, sigue estos pasos para descomprimirlo:
 
 ### **Windows**
 1. Ubica el archivo `semiconductores proyecto.zip` en tu computadora.
